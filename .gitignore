@@ -1,0 +1,32 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment variables
+.env
+.env.local
+
+# Output files & temporary caches
+.temp_pages/
+*.pdf
+output/
+°C
+AGENTS_mini.md
+p1
+p1_ocr_result/
+ocr_output_test/
+kq2/
+kq3/
+ketqua/
+
+# IDE & OS
+.DS_Store
+.idea/
+.vscode/
